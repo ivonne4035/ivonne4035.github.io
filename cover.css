@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-   background: "http://monkeydrives.com/images/pink-butterfly-3.jpg";
+   background-image: "http://monkeydrives.com/images/pink-butterfly-3.jpg";
 }
 body {
   color: #fff;
