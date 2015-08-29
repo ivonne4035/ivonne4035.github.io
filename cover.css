@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-   background-image: "http://www.freevectors.net/files/large/SeamlessBackgroundWithButterflies.jpg";
+   background-image: URL("http://www.freevectors.net/files/large/SeamlessBackgroundWithButterflies.jpg");
 }
 body {
   color: #fff;
