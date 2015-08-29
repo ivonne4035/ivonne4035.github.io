@@ -13,12 +13,11 @@ a:hover {
 .btn-default,
 .btn-default:hover,
 .btn-default:focus {
-  color: #333;
+  color: #FF3399;
   text-shadow: none; /* Prevent inheritence from `body` */
-  background-color: #2D2727;
+  background-color: #fff;
   border: 1px solid #fff;
 }
-
 
 /*
  * Base structure
