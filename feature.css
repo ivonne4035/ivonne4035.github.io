@@ -4,7 +4,7 @@ body{
   color: #1A0E00;
   text-align: left;
 	font-family: Georgia;
-	font-size: 20px;
+	font-size: 18px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
@@ -15,5 +15,7 @@ font-family: Times;
 }
 cycle{
 font-family:serif;	
-	
+}
+h2{
+	text-align:center;
 }
