@@ -12,6 +12,11 @@ body{
 h3{
 	text-align: center;
 }
+img{ 
+display:block; /*allows the element to take auto margins*/ 
+margin:0 auto; /*centers in compliant browsers*/ 
+text-align:center; /*centers in old versions of IE*/ 
+}
 div {
    margin-left: auto;
    margin-right: auto;
