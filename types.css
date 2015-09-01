@@ -27,14 +27,7 @@ body{
 h3{
 	text-align: center;
 }
-div {
-   margin-left: auto;
-   margin-right: auto;
-   width: 550px;
 
-   /* NOTE: Only works for non-floated block elements */
-   float: none;
-}
 
 a,
 a:focus,
