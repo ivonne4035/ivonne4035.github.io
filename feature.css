@@ -3,6 +3,7 @@ body{
    background-image: URL("https://www.awana.org/media/image/background-blue.jpg");
   color: #1A0E00;
   text-align: center;
+  display:inline;
 	font-family: Georgia;
 	font-size: 18px;
 	font-style: normal;
