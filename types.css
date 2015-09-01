@@ -1,15 +1,3 @@
-body{
-  height: 100%;
-   background-image: URL("https://www.awana.org/media/image/background-blue.jpg");
-  color: #FF3399;
-  text-align: center;
-	font-family: Georgia, Times, 'Times New Roman', serif;
-	font-size: 24px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 20px;
-}
 
 #box{
   text-align: center;
@@ -24,6 +12,45 @@ text-align:center;
 font-size:20px;
 color:#1A0E00;
 font-family:'Times New Roman';
+}
+body{
+  height: 100%;
+   background-image: URL("https://www.awana.org/media/image/background-blue.jpg");
+  color: #1A0E00;
+	font-family: Georgia;
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+h3{
+	text-align: center;
+}
+div {
+   margin-left: auto;
+   margin-right: auto;
+   width: 550px;
+
+   /* NOTE: Only works for non-floated block elements */
+   display: block;
+   float: none;
+}
+
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+/* Custom default button */
+.btn-default,
+.btn-default:hover,
+.btn-default:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritence from `body` */
+  background-color: #fff;
+  border: 1px solid #fff;
 }
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
@@ -92,20 +119,4 @@ font-family:'Times New Roman';
   .masthead-nav {
     float: right;
   }
-}
-
-a,
-a:focus,
-a:hover {
-  color: #fff;
-}
-
-/* Custom default button */
-.btn-default,
-.btn-default:hover,
-.btn-default:focus {
-  color: #333;
-  text-shadow: none; /* Prevent inheritence from `body` */
-  background-color: #fff;
-  border: 1px solid #fff;
 }
