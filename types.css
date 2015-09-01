@@ -1,4 +1,12 @@
-
+div {
+	margin: auto;
+	width:650px;
+}
+img{ 
+display:block; /*allows the element to take auto margins*/ 
+margin:0 auto; /*centers in compliant browsers*/ 
+text-align:center; /*centers in old versions of IE*/ 
+}
 #box{
   text-align: center;
   display: inline-block;
