@@ -10,25 +10,24 @@ body{
 	font-weight: 400;
 	line-height: 20px;
 }
-    facts {
+   #facts {
           background: #0075B8;
           padding: 10px;
           margin-bottom: 10px;
+          font-family: Times;
       }
-      facts ul {
+   #facts ul {
            margin: 0;
            padding: 0;
            text-align: center;
       }
-      facts li {
+   #facts li {
            display: inline;
            list-style: none;
            padding: 10px 5px 10px 5px;
       }
-facts{
-font-family: Times;	
-}
-cycle{
+
+#cycle{
 font-family:serif;	
 }
 
