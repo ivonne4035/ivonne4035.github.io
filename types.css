@@ -33,7 +33,6 @@ div {
    width: 550px;
 
    /* NOTE: Only works for non-floated block elements */
-   display: block;
    float: none;
 }
 
